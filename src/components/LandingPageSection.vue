@@ -28,28 +28,28 @@
           >
             <img
               class="md:w-auto md:h-auto w-10 h-10 transition-custom backdrop-only"
-              src="twitter.svg"
+              src="/twitter.svg"
               alt="twitter-icon"
               width="auto"
               height="auto"
             />
             <img
               class="md:w-auto md:h-auto w-10 h-10 transition-custom backdrop-only"
-              src="twitter.svg"
+              src="/twitter.svg"
               alt="twitter-icon"
               width="auto"
               height="auto"
             />
             <img
               class="md:w-auto md:h-auto w-10 h-10 transition-custom backdrop-only"
-              src="twitter.svg"
+              src="/twitter.svg"
               alt="twitter-icon"
               width="auto"
               height="auto"
             />
             <img
               class="md:w-auto md:h-auto w-10 h-10 transition-custom backdrop-only"
-              src="twitter.svg"
+              src="/twitter.svg"
               alt="twitter-icon"
               width="auto"
               height="auto"
@@ -64,7 +64,7 @@
       data-aos-delay="300"
       alt="icon-landing-page"
       class="md:w-auto md:h-auto w-7/12 h-2/4"
-      src="landing-page.svg"
+      src="/landing-page.svg"
     />
   </section>
 </template>
