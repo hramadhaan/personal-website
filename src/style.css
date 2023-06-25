@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth
+}
+
+.archivo-black {
+  font-family: "Archivo Black", sans-serif;
+}
+
+.custom-backdrop {
+  border-top: 2px solid #000;
+  border-bottom: 4px solid #000;
+  border-left: 2px solid #000;
+  border-right: 8px solid #000;
+  background-color: #ffc70c;
+  box-shadow: 0px 4px 4px 0px #000;
+}
+
+.backdrop-only:hover {
+  box-shadow: none;
+  border-radius: 100%;
+}
+
+.backdrop-only {
+  box-shadow: 2px 4px 4px 2px #aaa;
+  border-radius: 100%;
+}
+
+.transition-custom {
+  @apply transition ease-in-out hover:translate-y-1 hover:translate-x-2 hover:scale-95 duration-150;
+}
+
+.label-shadow {
+  box-shadow: 6px 6px 0px 0px #000;
+}
