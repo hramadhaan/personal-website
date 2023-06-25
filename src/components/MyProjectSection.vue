@@ -1,5 +1,5 @@
 <template>
-  <section id="myproject" class="md:pt-24 pt-12 flex flex-col justify-start">
+  <section id="myproject" class="md:pt-32 pt-12 flex flex-col justify-start">
     <div
       data-aos="fade-up"
       data-aos-duration="900"
@@ -12,7 +12,7 @@
         <span class="text-3xl font-black font-archivo-black">My Projects</span>
       </button>
     </div>
-    <div class="flex flex-col md:mt-[7rem] mt-10 gap-y-8">
+    <div class="flex flex-col md:mt-[6.5rem] mt-10 gap-y-8">
       <!-- Card Horizontal -->
       <div
         data-aos="fade-up"
