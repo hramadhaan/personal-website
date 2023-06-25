@@ -1,5 +1,5 @@
 <template>
-  <section id="myproject" class="md:pt-14 pt-12 flex flex-col justify-start">
+  <section id="myproject" class="md:pt-24 pt-12 flex flex-col justify-start">
     <div
       data-aos="fade-up"
       data-aos-duration="900"
