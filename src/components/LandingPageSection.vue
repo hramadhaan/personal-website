@@ -1,7 +1,7 @@
 <template>
   <section
     id="landingpage"
-    class="flex md:flex-row flex-col md:justify-between justify-center md:items-start items-center md:mt-28 mt-10"
+    class="flex md:flex-row flex-col md:justify-between justify-center md:items-start items-center md:pt-28 pt-10"
   >
     <div
       data-aos="fade-right"

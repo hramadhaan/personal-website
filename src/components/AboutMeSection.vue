@@ -1,5 +1,5 @@
 <template>
-  <section id="aboutme" class="md:my-48 my-12 flex flex-col justify-start">
+  <section id="aboutme" class="md:pt-20 pt-12 flex flex-col justify-start">
     <div class="md:flex-shrink-0 md:flex-grow-0 flex flex-col">
       <button
         data-aos="fade-up"

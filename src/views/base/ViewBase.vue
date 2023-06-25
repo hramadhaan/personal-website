@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col md:mx-20 mx-4">
+  <div class="flex flex-col md:mx-[6.25rem] mx-4">
     <Navbar />
     <slot></slot>
   </div>
